@@ -1,0 +1,3 @@
+https://fpt-software.udemy.com/course/react-native-advanced/learn/lecture/6853456#questions/2375604
+
+- Can not resolve the problem splashing image
